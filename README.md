@@ -1,9 +1,5 @@
-# SP23-DAM-AR
-Repo for Digital Arts and Media AR Team Spring 2023
+# Museo
+Repo for Museo, an augmented reality museum app that provides tailored audioguides and contextual information to museumgoers through NFC tags.
 
-Tech Team: Rohit Chawla, Vinson Zheng, Preetham Vankayalapati, Zayaan Rahman, Jerry He
-
-Product Team: Ethan Harris, Preetham Vankayalapati, Richard Bai
-
-Design Team: Wendy Ezeadikwa, Lauren Nguyen
+Product made and presented by the Digital Arts and Media Augmented Reality Team Spring 2023
 
